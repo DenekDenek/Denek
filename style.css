@@ -1,0 +1,108 @@
+body{
+   background-color: dimgrey;
+   
+      font-size: 20px;
+   font-family: 'Lato', sans-serif;
+   color: white;
+   
+}
+#container
+{
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+   
+   
+}
+.rectangle
+{
+width: 1000px;   
+}
+   .square
+   {   
+   width: 50%;
+   float:left;
+   }
+#logo
+{
+   float: left;
+   font-size: 70px;
+   width: 1000px;
+   font-family: 'Josefin Sans', sans-serif;
+ }
+.tile1
+{
+   margin: 10px;
+   width: 230px;
+   height: 142px;
+   background-color: blue;
+   float:left;
+   text-align: center;
+   font-size: 30px;
+   
+   
+   
+   
+   }
+.tile2
+{
+   margin: 10px;
+   width: 230px;
+   height: 142px;
+   background-color:darkred;
+   float:left;
+   }
+.tile3
+{
+   margin: 10px;
+   width: 230px;
+   height: 142px;
+   background-color: darkgrey;
+   float:left;
+   }
+
+.tile4
+{
+   margin: 10px;
+   width: 480px;
+   height: 142px;
+   background-color:wheat;
+   
+   
+   }
+
+.tile5
+{
+   margin: 10px;
+   width: 480px;
+   height: 304px;
+   background-color:lightyellow;
+   
+   
+   }
+.yt
+{
+   width: 480px;
+   background-color: indianred;
+   margin-top: 20px;
+   margin-left: 10px;
+   
+   height: 142px;
+   
+   }
+.yt:hover
+{
+   background-color: brown
+}
+
+.tile1:hover
+{
+   background-color: darkblue;
+}
+.footer
+{
+   width: 1000px;
+   text-align: center;
+   
+}
+   
