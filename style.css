@@ -25,6 +25,7 @@ width: 1000px;
    }
 #logo
 {
+   margin-left: 10px;
    float: left;
    font-size: 70px;
    width: 1000px;
@@ -39,6 +40,8 @@ width: 1000px;
    float:left;
    text-align: center;
    font-size: 30px;
+   color: white;
+   text-decoration: none;
    
    
    
@@ -113,4 +116,14 @@ width: 1000px;
    color: white;
    text-decoration: none;
 }
+.adsbygoogle
+{
+   background-color: aqua;
    
+}
+
+.strglink
+{
+   color: white;
+   text-decoration: none;
+}
