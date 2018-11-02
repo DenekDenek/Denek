@@ -74,10 +74,14 @@ width: 1000px;
 .tile5
 {
    margin: 10px;
-   width: 480px;
-   height: 304px;
+   width: 420px;
+   height: 244px;
    background-color:lightyellow;
-   
+   text-align: justify;
+   padding: 30px;
+    color: brown;
+   font-style: bold;
+   font-family: 'Roboto Slab', serif;
    
    }
 .yt
@@ -86,7 +90,6 @@ width: 1000px;
    background-color: indianred;
    margin-top: 20px;
    margin-left: 10px;
-   
    height: 142px;
    
    }
@@ -104,5 +107,10 @@ width: 1000px;
    width: 1000px;
    text-align: center;
    
+}
+.ytlink
+{
+   color: white;
+   text-decoration: none;
 }
    
